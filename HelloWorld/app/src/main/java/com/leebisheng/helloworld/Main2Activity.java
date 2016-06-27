@@ -59,9 +59,8 @@ public class Main2Activity extends AppCompatActivity {
                     EditText _et=(EditText) findViewById(R.id.editText);
                     String _strSend= _et.getText().toString();
                     _intent.putExtra("first_data",_strSend);
-                    startActivity(_intent);
-
-                break;
+                    startActivityForResult(_intent,123);
+                    break;
                 default:
                     break;
             }

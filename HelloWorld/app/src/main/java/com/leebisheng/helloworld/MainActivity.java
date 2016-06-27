@@ -95,6 +95,10 @@ public class MainActivity extends AppCompatActivity {
                 //System.exit(0);
                 Process.killProcess(Process.myPid());
                 break;
+
+            case R.id.button6:
+
+
             default:
                 break;
         }

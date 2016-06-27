@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_22691532eb2bac93afabc2e3338c42820b29467a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_2740d1629dbf909d195c1a001ed0f40a678c00ce.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_667905cbedbaa34b2dbe40a6e102da892d9d1214.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_02650774c894063fab189beabb7117d6d925be9c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.3.0_03704a56cbf70d990e218925920f221798a3d9cf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="af795336e9c65b7e9c0c98bc80d08dd1de002db6">
+        <dex dex="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\pre-dexed\debug\instant-run_0470282e008380ab1818ea848096baedfd5c5d1d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="901b6cd6cadd76a1242b0de47ab289e72dc46367">
+        <dex dex="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_45820679f01b3519012a9ddb938a4bb9c6ea949a.jar" />
+    </item>
+    <item
+        jar="D:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_90072e829b15b9696c4165e7af2b482705b5407a.jar" />
+    </item>
+
+</items>

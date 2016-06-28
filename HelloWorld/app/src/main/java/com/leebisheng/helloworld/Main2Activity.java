@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RelativeLayout;
+import android.widget.Toast;
 
 public class Main2Activity extends AppCompatActivity {
 
@@ -52,14 +53,14 @@ public class Main2Activity extends AppCompatActivity {
            switch (_button.getId())
             {
                 case 10000:
-                    //start activity
+                    //start activity 启动新的activity
                    // Intent _intent = new Intent();
                    // _intent.setClass(Main2Activity.this,MainActivity.class);
                     Intent _intent = new Intent(Main2Activity.this,MainActivity.class);
                     EditText _et=(EditText) findViewById(R.id.editText);
                     String _strSend= _et.getText().toString();
                     _intent.putExtra("first_data",_strSend);
-                    startActivity(_intent);
+                    startActivityForResult(_intent,123);
 
                 break;
                 default:
@@ -69,4 +70,16 @@ public class Main2Activity extends AppCompatActivity {
 
         }
     };
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+
+        if(resultCode==3121)
+        {
+            String _resultValue=data.getExtras().getString("rentun_data");
+            Toast.makeText(this,_resultValue,9000).show();
+        }
+        super.onActivityResult(requestCode, resultCode, data);
+
+    }
 }

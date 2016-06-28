@@ -12,6 +12,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -40,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         }
         );
 
+        //接收值
         Intent _intent=this.getIntent();
         String _strInto;
         if(_intent!=null)
@@ -94,6 +96,15 @@ public class MainActivity extends AppCompatActivity {
             case R.id.button5:
                 //System.exit(0);
                 Process.killProcess(Process.myPid());
+                break;
+            case R.id.button6:
+                //返回值
+                 Intent _intent;
+                _intent=this.getIntent();
+                EditText _et=(EditText) findViewById(R.id.editText2);
+                _intent.putExtra("rentun_data",_et.getText().toString());
+                setResult(321,_intent);
+                finish();
                 break;
             default:
                 break;

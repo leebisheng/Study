@@ -74,9 +74,9 @@ public class Main2Activity extends AppCompatActivity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 
-        if(resultCode==3121)
+        if(resultCode==321)
         {
-            String _resultValue=data.getExtras().getString("rentun_data");
+            String _resultValue=data.getStringExtra("rentun_data");
             Toast.makeText(this,_resultValue,9000).show();
         }
         super.onActivityResult(requestCode, resultCode, data);

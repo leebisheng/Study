@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\src\main\AndroidManifest.xml:17:1-40:12
-	xmlns:android
-		ADDED from D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\src\main\AndroidManifest.xml:17:11-69
 	package
 		ADDED from D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\src\main\AndroidManifest.xml:18:5-50
 	android:versionName
@@ -13,6 +11,8 @@ ADDED from D:\AndroidStudioProjects\Study\android-BasicTransition-master\Applica
 		ADDED from D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\src\main\AndroidManifest.xml:19:5-28
 		INJECTED from D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\src\main\AndroidManifest.xml:17:11-69
 application
 ADDED from D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\src\main\AndroidManifest.xml:24:5-38:19
 MERGED from [com.android.support:support-v4:23.3.0] D:\AndroidStudioProjects\Study\android-BasicTransition-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20

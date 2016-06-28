@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_transition.xml",
+        "source": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\src\\main\\res\\layout\\activity_basic_transition.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\scene2.xml",
+        "source": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\src\\main\\res\\layout\\scene2.xml"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\scene1.xml",
         "source": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\src\\main\\res\\layout\\scene1.xml"
     },
@@ -12,15 +20,7 @@
         "source": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\src\\main\\res\\layout\\fragment_basic_transition.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_transition.xml",
-        "source": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\src\\main\\res\\layout\\activity_basic_transition.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\scene2.xml",
-        "source": "D:\\AndroidStudioProjects\\Study\\android-BasicTransition-master\\Application\\src\\main\\res\\layout\\scene2.xml"
     }
 ]

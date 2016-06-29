@@ -1,6 +1,7 @@
 package com.leebisheng.helloworld;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -63,6 +64,7 @@ public class Main2Activity extends AppCompatActivity {
                     startActivityForResult(_intent,123);
 
                 break;
+
                 default:
                     break;
             }
@@ -82,4 +84,22 @@ public class Main2Activity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
 
     }
+
+    // 注意 这里没有 @Override 标签
+    public void onClick(View v)
+    {
+        switch (v.getId())
+        {
+            case R.id.buttondail:
+                Intent _intent1=new Intent();
+               // _intent1.setAction(Intent.ACTION_DIAL);
+                _intent1.setAction(Intent.ACTION_CALL);
+                _intent1.setData(Uri.parse("tel:10086"));
+                startActivity(_intent1);
+                break;
+            default:
+                break;
+        }
+    }
+
 }

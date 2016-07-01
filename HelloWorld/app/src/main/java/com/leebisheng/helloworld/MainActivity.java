@@ -1,6 +1,7 @@
 package com.leebisheng.helloworld;
 
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.os.Bundle;
 import android.os.Process;
 import android.support.design.widget.FloatingActionButton;
@@ -20,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+        Log.i("MainActivity","onCreate");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -129,9 +132,54 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-//test
+
+
 
         return super.onOptionsItemSelected(item);
     }
+
+    @Override
+    protected void onStart() {
+        Log.i("MainActivity","onStart");
+        super.onStart();
+    }
+
+    @Override
+    protected void onResume() {
+        Log.i("MainActivity","onResume");
+        super.onResume();
+    }
+
+    @Override
+    protected void onPause() {
+        Log.i("MainActivity","onPause");
+        super.onPause();
+    }
+
+    @Override
+    protected void onStop() {
+        Log.i("MainActivity","onStop");
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy() {
+        Log.i("MainActivity","onDestroy");
+        super.onDestroy();
+    }
+
+    @Override
+    protected void onRestart() {
+        Log.i("MainActivity","onRestart");
+        super.onRestart();
+    }
+
+    @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        Log.i("MainActivity","onConfigurationChanged");
+        super.onConfigurationChanged(newConfig);
+    }
+
+
 }
 

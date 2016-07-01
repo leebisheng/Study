@@ -9,11 +9,14 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
+import android.util.Log;
+import android.content.res.Configuration;
 
 public class Main2Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        Log.i("Main2Activity","onCreate");
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_main2);
         this.getWindow().setContentView(this.getLayoutInflater().inflate(R.layout.activity_main2,null));
@@ -91,15 +94,57 @@ public class Main2Activity extends AppCompatActivity {
         switch (v.getId())
         {
             case R.id.buttondail:
-                Intent _intent1=new Intent();
+              Intent _intent1=new Intent();
                // _intent1.setAction(Intent.ACTION_DIAL);
-                _intent1.setAction(Intent.ACTION_CALL);
+               _intent1.setAction(Intent.ACTION_CALL);
                 _intent1.setData(Uri.parse("tel:10086"));
-                startActivity(_intent1);
+                   startActivity(_intent1);
                 break;
             default:
                 break;
         }
+    }
+
+    @Override
+    protected void onStart() {
+        Log.i("Main2Activity","onStart");
+        super.onStart();
+    }
+
+    @Override
+    protected void onResume() {
+        Log.i("Main2Activity","onResume");
+        super.onResume();
+    }
+
+    @Override
+    protected void onPause() {
+        Log.i("Main2Activity","onPause");
+        super.onPause();
+    }
+
+    @Override
+    protected void onStop() {
+        Log.i("Main2Activity","onStop");
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy() {
+        Log.i("Main2Activity","onDestroy");
+        super.onDestroy();
+    }
+
+    @Override
+    protected void onRestart() {
+        Log.i("Main2Activity","onRestart");
+        super.onRestart();
+    }
+
+    @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        Log.i("Main2Activity","onConfigurationChanged");
+        super.onConfigurationChanged(newConfig);
     }
 
 }

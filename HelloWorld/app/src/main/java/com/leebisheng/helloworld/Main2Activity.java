@@ -144,6 +144,10 @@ public class Main2Activity extends AppCompatActivity {
     @Override
     public void onConfigurationChanged(Configuration newConfig) {
         Log.i("Main2Activity","onConfigurationChanged");
+     if(newConfig.orientation==Configuration.ORIENTATION_LANDSCAPE)
+       {
+            Toast.makeText(this,"landscape",Toast.LENGTH_SHORT).show();
+       }
         super.onConfigurationChanged(newConfig);
     }
 

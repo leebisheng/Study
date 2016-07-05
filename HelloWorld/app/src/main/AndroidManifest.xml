@@ -12,7 +12,7 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
-            android:configChanges="orientation|keyboard"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
             android:theme="@style/AppTheme.NoActionBar">
 
             <!--
@@ -24,14 +24,21 @@
              -->
         </activity>
 
-        <activity android:name=".Main2Activity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity android:name=".Main2Activity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize">
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
+        <activity android:name=".ButtonAActivity" android:label="Activity A "
+            >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
 
+        </activity>
+        <activity android:name=".ButtonBActivity" android:label="Activity B"
+            >
+        </activity>
     </application>
     <uses-permission  android:name="android.permission.CALL_PHONE" />
 

@@ -27,7 +27,7 @@ public class FirstService extends IntentService
     public void printLog ()
     {
         Log.i("LeeLog","in printLog");
-        for(int i=0;i<100;i++)
+        for(int i=0;i<10;i++)
         {
             try
             {

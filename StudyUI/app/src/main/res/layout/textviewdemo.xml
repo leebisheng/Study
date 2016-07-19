@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StudyTextView">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="今天是禁食第二天！明天继续？ 现在是第三天了，感觉很好。 我的电话是:18213586858,Email:leebisheng@sina.com"
+        android:textColor="#666"
+        android:textSize="24sp"
+        android:drawableLeft="@drawable/lxt1"
+        android:autoLink="all"
+        android:id="@+id/textView1" />
+</LinearLayout>

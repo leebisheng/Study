@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--设置clickable=true属性，可以防止click事件被覆盖在它下层的recycleView的itemview接收到-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="60dp"
+              android:layout_gravity="bottom"
+              android:background="#DFFF"
+              android:clickable="true"
+              android:orientation="horizontal">
+
+    <!--设置clickable表示自己消费click事件，不往下传递了-->
+    <!--#FFF表示白色，前面加上D，表示增加一半透明度-->
+    <ImageView
+        android:id="@+id/littleConverIv"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_default_art"
+        />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titleTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="fewafew"
+            android:textColor="?android:textColorPrimary"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/artistTv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:gravity="bottom"
+            android:singleLine="true"
+            android:text="feafe"
+            android:textColor="?android:textColorSecondary"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/cb_play"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="right"
+        android:background="@drawable/play_pause_selector"
+        android:button="@null"
+        android:checked="false"/>
+
+</LinearLayout>

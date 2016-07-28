@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- provide a different drawable for each state-->
+    <item
+        android:id="@+id/checked"
+        android:drawable="@drawable/pause_vector"
+        android:state_checked="true"/>
+    <item
+        android:id="@+id/unchecked"
+        android:drawable="@drawable/play_vector"
+        android:state_checked="false"/>
+
+    <!--设置状态动画切换的-->
+    <transition
+        android:drawable="@drawable/pause_play_av"
+        android:fromId="@+id/checked"
+        android:toId="@+id/unchecked">
+
+    </transition>
+
+    <transition
+        android:drawable="@drawable/play_pause_av"
+        android:fromId="@+id/unchecked"
+        android:toId="@+id/checked">
+    </transition>
+
+</animated-selector>

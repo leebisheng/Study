@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0914f5a7-9750-4bff-af22-434fa19299e9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/default_corver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/equalizer1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/equalizer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/equalizer3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/ic_default_art.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/next_enable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/notify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/previous_enable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/quit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/repeat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/repeat_one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/shuffle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable-hdpi/volume.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/libs/chardet-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/libs/cpdetector_1.0.10.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/default_corver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/equalizer1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/equalizer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/equalizer3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/ic_default_art.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/next_enable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/notify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/previous_enable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/quit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/repeat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/repeat_one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/shuffle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable-hdpi/volume.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/car1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/cn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/cn0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/cn1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/equalizer1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/equalizer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/equalizer3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/ic_default_art.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/next_enable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/notify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/phone1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/previous_enable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/quit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/repeat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/repeat_one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/shuffle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/volume.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/MdMusic3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/androidTest/java/cn/itcast/wh/mdmusic3/ApplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/java/cn/itcast/wh/mdmusic3/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/java/cn/itcast/wh/mdmusic3/adapter/MainAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/java/cn/itcast/wh/mdmusic3/common/BaseActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/java/cn/itcast/wh/mdmusic3/common/IMediaControllerConsumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/java/cn/itcast/wh/mdmusic3/engine/LocalPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/java/cn/itcast/wh/mdmusic3/engine/MusicProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/java/cn/itcast/wh/mdmusic3/service/MusicService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/java/cn/itcast/wh/mdmusic3/util/BeanHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/animator/pause_play_path.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/animator/pause_play_rotation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/animator/play_pause_path.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/animator/play_pause_rotation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable/pause_play_av.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable/pause_vector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable/play_pause_av.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable/play_pause_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable/play_vector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/drawable/playing_bg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/layout/main_bottom_controller.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/layout/music_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/menu/menu_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/values-v21/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/MdMusic2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/androidTest/java/cn/itcast/wh/mdmusic2/ApplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/MusicProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/NowPlayingActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/adapter/MainAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/adapter/PlayingAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/common/BaseActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/common/IMediaControllerConsumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/enigee/LocalPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/enigee/PlayMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/service/MusicService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/util/BeanHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/util/DepthPageTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/java/cn/itcast/wh/mdmusic2/util/Lrc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/animator/path_pause_play.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/animator/path_play_pause.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/animator/rotation_pause_play.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/animator/rotation_play_pause.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/next.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/pause_play_av.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/pause_vector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/play_pause_av.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/play_pause_selector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/play_vector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/playing_bg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/previous.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/random_se.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/rep_all_se.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/drawable/rep_one_se.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/layout/activity_now_playing.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/layout/layout_menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/layout/main_bottom_controller.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/layout/music_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/layout/now_playing_bottom_controller.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/menu/menu_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/values-v21/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MdMusic2/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/java/com/example/leebisheng/studyui/Country.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/java/com/example/leebisheng/studyui/CoutryAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/java/com/example/leebisheng/studyui/StudyListViewActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/java/com/example/leebisheng/studyui/StudySpinnerActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/drawable/edittext_shape.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/layout/activity_study_spinner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/layout/buttondemo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/layout/contact_items.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/layout/country_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/layout/listview.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mySMS.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudyUI/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudyUI/app/src/main/java/com/example/leebisheng/studyui/MainActivity.java" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/java/com/example/leebisheng/studyui/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudyUI/app/src/main/res/layout/textviewdemo.xml" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/layout/textviewdemo.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StudyUI/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/res/values/strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../StudyUI/app/src/main/java/com/example/leebisheng/studyui/StudyTextView.java" afterPath="$PROJECT_DIR$/../StudyUI/app/src/main/java/com/example/leebisheng/studyui/StudyTextViewActivity.java" />
+    </list>
+    <ignored path="mySMS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mySMS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".project" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.project">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".classpath" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.classpath">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proguard.cfg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proguard.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1600" />
+    <option name="height" value="869" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="D:/AppData/Local/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0914f5a7-9750-4bff-af22-434fa19299e9" name="Default" comment="" />
+      <created>1469544129252</created>
+      <option name="number" value="Default" />
+      <updated>1469544129252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1600" height="869" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915374" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proguard.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

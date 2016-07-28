@@ -1,11 +1,8 @@
 package com.example.leebisheng.studyui;
 
 import android.app.Activity;
-import android.content.Context;
-import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
-import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.text.Html;
@@ -21,7 +18,7 @@ import android.widget.Toast;
 /**
  * Created by leebisheng on 2016/7/14.
  */
-public class StudyTextView extends Activity
+public class StudyTextViewActivity extends Activity
 {
 
 
@@ -32,7 +29,7 @@ public class StudyTextView extends Activity
         setContentView(R.layout.textviewdemo);
 
         //ShowTextView();
-        ShowTextView1();
+       // ShowTextView1();
     }
 
     //fromHtml demo
@@ -85,7 +82,7 @@ public class StudyTextView extends Activity
     {
         TextView textView1=(TextView)findViewById(R.id.textView1);
         SpannableStringBuilder spannableStringBuilder=new SpannableStringBuilder("大家好，  这是我爸爸！");
-        ImageSpan imageSpan=new ImageSpan(StudyTextView.this,R.drawable.lee1);
+        ImageSpan imageSpan=new ImageSpan(StudyTextViewActivity.this,R.drawable.lee1);
 
         ClickableSpan clickableSpan=new ClickableSpan() {
             @Override
@@ -94,7 +91,7 @@ public class StudyTextView extends Activity
                 float y=widget.getY();
 
 
-                Toast.makeText(StudyTextView.this,"你点击了我！",3000).show();
+                Toast.makeText(StudyTextViewActivity.this,"你点击了我！",3000).show();
             }
         };
         spannableStringBuilder.setSpan(imageSpan,4,5, Spannable.SPAN_EXCLUSIVE_INCLUSIVE);

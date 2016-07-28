@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/repeat" android:state_enabled="true" />
+    <item android:state_enabled="false">
+        <bitmap android:src="@drawable/repeat" android:tintMode="src_atop" android:tint="#0094ff" />
+    </item>
+</selector>

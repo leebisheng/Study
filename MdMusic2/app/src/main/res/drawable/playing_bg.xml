@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="100">
+        <bitmap
+            android:src="@drawable/equalizer1"
+            android:tint="@android:color/darker_gray"
+            android:tintMode="src_atop">
+        </bitmap>
+    </item>
+    <item android:duration="100">
+        <bitmap
+            android:src="@drawable/equalizer2"
+            android:tint="@android:color/darker_gray"
+            android:tintMode="src_atop">
+        </bitmap>
+    </item>
+    <item android:duration="100">
+        <bitmap
+            android:src="@drawable/equalizer3"
+            android:tint="@android:color/darker_gray"
+            android:tintMode="src_atop">
+        </bitmap>
+    </item>
+</animation-list>

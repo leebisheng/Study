@@ -27,11 +27,12 @@ public class MainActivity extends AppCompatActivity {
 
         linearLayout.addView(_button1);
 
-       // setContentView(linearLayout);
+       //setContentView(linearLayout);
         CustomView customview=new CustomView(this);
         Log.i("lee","1");
         //setContentView(new CustomView(this));
         setContentView(customview);;
+
 
 
         customview.setOnClickListener(new View.OnClickListener() {

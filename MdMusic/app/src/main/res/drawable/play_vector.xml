@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--width/height:就是指正常的宽高，viewportWidth/viewportHeight:矢量图在绘制的时候所产生的虚拟画笔canvas的大小-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24dp"
+        android:height="24dp"
+        android:viewportHeight="24"
+        android:viewportWidth="24">
+
+    <group
+        android:name="g"
+        android:pivotX="12"
+        android:pivotY="12"
+        android:rotation="90">
+        <path
+            android:name="p"
+            android:fillColor="#000"
+            android:pathData="@string/path_play"/>
+    </group>
+</vector>

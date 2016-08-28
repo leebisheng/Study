@@ -72,12 +72,12 @@ public class StudyListViewActivity extends ListActivity {
                 Log.i("leebisheng", "第" + i + "列：" + cursor.getColumnNames()[i].toString());
             }
             Log.i("leebisheng", "记录数：" + cursor.getCount());
-            while (cursor.moveToNext()) {
+/*            while (cursor.moveToNext()) {
                 String name = cursor.getString(cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME));
                 String number = cursor.getString(cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER));
                 Log.i("leebisheng", name + "  " + number);
 
-            }
+            }*/
 
 
             SimpleCursorAdapter simpleCursorAdapter = new SimpleCursorAdapter(this, R.layout.contact_items, cursor,
@@ -85,6 +85,7 @@ public class StudyListViewActivity extends ListActivity {
                     new int[]{R.id.textViewName, R.id.textViewNumber}, 0);
 
             setListAdapter(simpleCursorAdapter);
+
         }
     }
 
@@ -121,7 +122,7 @@ public class StudyListViewActivity extends ListActivity {
     private  void showListView()
     {
         String[] countries=getResources().getStringArray(R.array.countries);
-        // 注释掉的写法是继承与Activity 下面写法的条件是继承ListActivity 。
+        // 注释掉的写法是继承于Activity 下面写法的条件是继承ListActivity 。
         //ListView listView=(ListView)findViewById(R.id.listViewList);
         //ArrayAdapter<String> arrayAdapter=new ArrayAdapter<String>(this,android.R.layout.simple_list_item_single_choice,countries);
         //listView.setAdapter(arrayAdapter);

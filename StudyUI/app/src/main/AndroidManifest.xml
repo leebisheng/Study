@@ -25,16 +25,16 @@
 
         <activity android:name=".StudySpinnerActivity">        </activity>
         <activity android:name=".StudyListViewActivity">
-
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity android:name=".StudyExListViewActivity">
 
         </activity>
         <activity android:name=".StudyGridViewActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+
         </activity>
     </application>
 
